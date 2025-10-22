@@ -1,0 +1,62 @@
+{
+  "name": "All",
+  "children": [
+    {
+      "name": "Drama",
+      "children": [
+        { "name": "The Conclave", "value": 1 },
+        { "name": "Holy Spider", "value": 1 },
+        { "name": "Ballads of Songbirds & Snakes", "value": 1 },
+        { "name": "Handmaid’s Tale", "value": 6 },
+        { "name": "The Middle", "value": 3 },
+        { "name": "Sara: Woman in the Shadows", "value": 1 },
+        { "name": "Above the Rim", "value": 1 },
+        { "name": "Theory of Everything", "value": 1},
+        { "name": "Swiped", "value": 1}
+      ]
+    },
+    {
+      "name": "Action/Thriller",
+      "children": [
+        { "name": "Rebel Ridge", "value": 1 },
+        { "name": "The Old Guard", "value": 1 },
+        { "name": "The Old Guard 2", "value": 1 },
+        { "name": "The Accountant", "value": 1 },
+        { "name": "The Accountant 2", "value": 1 },
+        { "name": "Carry-on", "value": 1 }
+      ]
+    },
+    {
+      "name": "Comedy",
+      "children": [
+        { "name": "Just Go With It!", "value": 1 },
+        { "name": "Spanglish", "value": 1 },
+        { "name": "SNL 50", "value": 1 },
+        { "name": "Anchorman", "value": 1},
+        { "name": "Gilmore Girls", "value": 1},
+        { "name": "Only Murders in the Building", "value":1}
+
+      ]
+    },
+    {
+      "name": "Disney",
+      "children": [
+        { "name": "Moana", "value": 1 },
+        { "name": "Moana 2", "value": 1 },
+        { "name": "Lion King 2", "value": 1 },
+        { "name": "Our Planet", "value": 1},
+        { "name": "The Wild Robot", "value": 1 },
+        { "name": "Thunderbolts", "value": 1},
+        { "name": "Wednesday", "value": 1}
+      ]
+    },
+    {
+      "name": "Sports",
+      "children": [
+        { "name": "Supercross", "value": 4 },
+        { "name": "Motocross", "value": 1 },
+        { "name": "Gold Cup 2-1 Mex", "value": 1 }
+      ]
+    }
+  ]
+}

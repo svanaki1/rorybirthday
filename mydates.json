@@ -1,0 +1,139 @@
+[
+  {
+    "name": "Botanical garden",
+    "visits": 1,
+    "coordinates": [-97.77218097111609, 30.26977392211022] 
+  },
+  {
+    "name": "Valhalla",
+    "visits": 4,
+    "coordinates": [-95.40032420030457, 29.71916987219115]
+  },
+  {
+    "name": "Snow day!! ❄️",
+    "visits": 1,
+    "coordinates": [-95.38920316271344, 29.71995916951542]
+  },
+  {
+    "name": "Aquarium!!",
+    "visits": 1,
+    "coordinates": [-95.36739714019873, 29.764443798051413]
+  },
+  {
+    "name": "Sur la table",
+    "visits": 1,
+    "coordinates": [ -95.40815257667606, 29.753514502151962]
+  },
+  {
+    "name": "Superbowl sunday!! Luis house",
+    "visits": 1,
+    "coordinates": [ -95.41143614287014, 29.61446972595166]
+  },
+  {
+    "name": "Houston Zoo",
+    "visits": 1,
+    "coordinates": [-95.39031947706559, 29.715791482248733]
+  },
+  {
+    "name": "Rock climbing",
+    "visits": 1,
+    "coordinates": [-95.37744002830799, 29.77125057428733]
+  },
+
+  {
+    "name": "Legos: mini bouquet and hibiscus",
+    "visits": 2,
+    "coordinates": [-95.3814503533705, 29.71757025201267]
+  },
+  {
+    "name": "Galveston Moody Mansion",
+    "visits": 1,
+    "coordinates": [-94.79627765153441, 29.29954900159362]
+  },
+  {
+    "name": "Galveston Bishop's Palace",
+    "visits": 1,
+    "coordinates": [-94.78215437294108, 29.30299997516006]
+  },
+  {
+    "name": "Baseball game 3-2 W triple date",
+    "visits": 1,
+    "coordinates": [-95.35525922052429, 29.757239517896036]
+  },
+  {
+    "name": "Natural Science Museum",
+    "visits": 1,
+    "coordinates": [-95.38957164892517, 29.722003822868594]
+  },
+  {
+    "name": "Bowling at Lucky Strike",
+    "visits": 1,
+    "coordinates": [-95.53199636843587, 29.78018921306761]
+  },
+  {
+    "name": "Fireworks",
+    "visits": 1,
+    "coordinates": [-95.37689212965505, 29.71421573608624]
+  },
+
+  {
+    "name": "Cidercade",
+    "visits": 1,
+    "coordinates": [-95.34676038275731, 29.757455710811243]
+  },
+  {
+    "name": "Billiards, 6 games",
+    "visits": 1,
+    "coordinates": [-95.40359958084957, 29.717901725807543]
+  },
+  {
+    "name": "MFAH",
+    "visits": 1,
+    "coordinates": [-95.38959442283216, 29.726437210013646]
+  },
+  {
+    "name": "Botanical garden",
+    "visits": 1,
+    "coordinates": [-95.38786742096161, 29.721492552939715]
+  },
+  {
+    "name": "Barton Springs",
+    "visits": 1,
+    "coordinates": [-97.77139677309843, 30.2637343880033]
+  },
+  {
+    "name": "First Light Book Shop",
+    "visits": 1,
+    "coordinates": [-97.72969814968744, 30.307112725559865]
+  },
+  {
+    "name": "Half Price Books",
+    "visits": 1,
+    "coordinates": [-97.7264146096368, 30.32378913273739]
+  },
+  {
+    "name": "Austin Public Library Recycled Reads Bookstore",
+    "visits": 1,
+    "coordinates": [-97.73942994421704, 30.326882801250633]
+  },
+  {
+    "name": "Nordstrom Rack",
+    "visits": 2,
+    "coordinates": [-95.46315655590907, 29.742113983842014]
+  },
+  {
+    "name": "Dicks Sporting Goods",
+    "visits": 2,
+    "coordinates": [-95.46002369331839, 29.743893875834182]
+  },
+  {
+    "name": "NASA Space Center Houston",
+    "visits": 1,
+    "coordinates": [-95.09811987666501, 29.551800271471652]
+  },
+  {
+    "name": "Dicks Sporting Goods",
+    "visits": 1,
+    "coordinates": [-95.13652876247194, 29.538811547944892]
+  }
+]
