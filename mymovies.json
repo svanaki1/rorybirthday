@@ -12,7 +12,8 @@
         { "name": "Sara: Woman in the Shadows", "value": 1 },
         { "name": "Above the Rim", "value": 1 },
         { "name": "Theory of Everything", "value": 1},
-        { "name": "Swiped", "value": 1}
+        { "name": "Swiped", "value": 1},
+        { "name": "Frankenstein", "value": 1}
       ]
     },
     {
@@ -24,7 +25,11 @@
         { "name": "The Accountant", "value": 1 },
         { "name": "The Accountant 2", "value": 1 },
         { "name": "Carry-on", "value": 1 },
-        { "name": "A house of dynamite", "value": 1 }
+        { "name": "A House of Dynamite", "value": 1 },
+        { "name": "Luckiest Girl Alive", "value": 1 },
+        { "name": "Avatar", "value": 1},
+        { "name": "Avatar: The Way of Water", "value": 1},
+        { "name": "Avatar: Fire and Ash", "value": 1}
       ]
     },
     {
@@ -48,7 +53,9 @@
         { "name": "Our Planet", "value": 1},
         { "name": "The Wild Robot", "value": 1 },
         { "name": "Thunderbolts", "value": 1},
-        { "name": "Wednesday", "value": 1}
+        { "name": "Wednesday", "value": 1},
+        { "name": "Zootopia", "value": 1},
+        { "name": "Zootopia 2", "value": 1}
       ]
     },
     {
@@ -61,4 +68,5 @@
     }
   ]
 }
+
 
