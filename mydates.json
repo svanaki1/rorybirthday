@@ -6,7 +6,7 @@
   },
   {
     "name": "Valhalla",
-    "visits": 4,
+    "visits": 6,
     "coordinates": [-95.40032420030457, 29.71916987219115]
   },
   {
@@ -36,13 +36,13 @@
   },
   {
     "name": "Rock climbing",
-    "visits": 1,
+    "visits": 2,
     "coordinates": [-95.37744002830799, 29.77125057428733]
   },
 
   {
-    "name": "Legos: mini bouquet and hibiscus",
-    "visits": 2,
+    "name": "Legos: mini bouquet and hibiscus and bamboo",
+    "visits": 3,
     "coordinates": [-95.3814503533705, 29.71757025201267]
   },
   {
@@ -135,5 +135,41 @@
     "name": "Dicks Sporting Goods",
     "visits": 1,
     "coordinates": [-95.13652876247194, 29.538811547944892]
+  },
+  {
+    "name": "Dijon Concert at Stubbs",
+    "visits": 1,
+    "coordinates": [-97.7362551624562, 30.268515182046023]
+  },
+  {
+    "name": "Bookpeople",
+    "visits": 1,
+    "coordinates": [-97.75303206983313, 30.271855260119484]
+  },
+  {
+    "name": "Mt Bonnell",
+    "visits": 1,
+    "coordinates": [-97.77353822488786, 30.32116899932991]
+  },
+  {
+    "name": "River Oaks Christmas Lights",
+    "visits": 1,
+    "coordinates": [-95.4376015857887, 29.752115936120596]
+  },
+  {
+    "name": "Target South Main",
+    "visits": 1,
+    "coordinates": [-95.41891340358289, 29.692679407713644]
+  },
+  {
+    "name": "Target Montrose",
+    "visits": 1,
+    "coordinates": [-95.40960574718748, 29.74130560933558]
+  },
+  {
+    "name": "Target Westheimer",
+    "visits": 1,
+    "coordinates": [-95.51762580862177, 29.734934474072872]
   }
 ]
+
