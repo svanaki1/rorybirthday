@@ -23,7 +23,8 @@
         { "name": "The Old Guard 2", "value": 1 },
         { "name": "The Accountant", "value": 1 },
         { "name": "The Accountant 2", "value": 1 },
-        { "name": "Carry-on", "value": 1 }
+        { "name": "Carry-on", "value": 1 },
+        { "name": "A house of dynamite", "value": 1 }
       ]
     },
     {
@@ -60,3 +61,4 @@
     }
   ]
 }
+
