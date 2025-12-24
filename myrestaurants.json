@@ -14,14 +14,20 @@
   { "name": "Miller’s Seawall Grill Galveston", "visits": 1, "coords": [-94.78445836449366, 29.293245665970076] },  
   { "name": "Hopdoddy Rice Village", "visits": 6, "coords": [-95.41531341096395, 29.71624729451448] },  
   { "name": "Baskin Robins Rice Village", "visits": 6, "coords": [-95.41623828378795, 29.714824303722747] },  
-  { "name": "Taqueria del Sol", "visits": 1, "coords": [-95.27664788351545, 29.685812626425452]},
+  { "name": "Taqueria del Sol", "visits": 2, "coords": [-95.27664788351545, 29.685812626425452]},
   { "name": "Velvet Taco", "visits": 1, "coords": [-95.41772535076954, 29.71730687490845] }, 
-  { "name": "Sushi Masa", "visits": 3, "coords": [-95.54066144741455, 29.736095737851524] }, 
+  { "name": "Sushi Masa", "visits": 4, "coords": [-95.54066144741455, 29.736095737851524] }, 
   { "name": "Candente", "visits": 2, "coords": [-95.3927473270155, 29.73419339170238] },  
   { "name": "Kasra Rice Village", "visits": 4, "coords": [-95.41731603123189, 29.71696400067126] }, 
   { "name": "Kirby Ice House", "visits": 1, "coords": [-95.42438024400339, 29.735626358461023] },
   { "name": "Truth BBQ", "visits": 1, "coords": [-95.39760347640599, 29.769087143842576] },
   { "name": "Salt Traders Coastal Cooking", "visits": 1, "coords": [-97.7809383826549, 30.265339165271744] },
-  { "name": "Upper Crust Bakery", "visits": 1, "coords": [-97.74155426211942, 30.315841325217026] },
-  { "name": "Subway", "visits": 1, "coords": [-97.72096512603198, 30.233759526319187] }
+  { "name": "Upper Crust Bakery", "visits": 2, "coords": [-97.74155426211942, 30.315841325217026] },
+  { "name": "Subway", "visits": 1, "coords": [-97.72096512603198, 30.233759526319187] },
+  { "name": "Pinkerton's Barbecue", "visits": 1, "coords": [-95.38148304468363, 29.798699630951976] },
+  { "name": "Mozart's Coffee Roasters", "visits": 1, "coords": [-97.78394720050052, 30.295477615518575] },
+  { "name": "Hoboken Pie", "visits": 1, "coords": [-97.73669143914476, 30.26821150362518] },
+  { "name": "Black Walnut Kitchen & Bar", "visits": 1, "coords": [-95.41526924468664, 29.715744499441914] },
+  { "name": "Gao's Crab Houston", "visits": 1, "coords": [-95.55311979193284, 29.70663696418756] }
 ]
+
