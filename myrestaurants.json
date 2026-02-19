@@ -1,5 +1,5 @@
 [
-  { "name": "Jimmy Johns", "visits": 4, "coords": [-95.41496981760076, 29.705870580541344] },  
+  { "name": "Jimmy Johns", "visits": 5, "coords": [-95.41496981760076, 29.705870580541344] },  
   { "name": "Pit Room", "visits": 2, "coords": [-95.39401001298, 29.734215319246506] },  
   { "name": "Cooking Girl", "visits": 1, "coords": [-95.39191379174186, 29.75206218763562] },
   { "name": "The Burger Joint", "visits": 7, "coords": [-95.39104621250213, 29.745402071577512] }, 
@@ -30,4 +30,5 @@
   { "name": "Black Walnut Kitchen & Bar", "visits": 1, "coords": [-95.41526924468664, 29.715744499441914] },
   { "name": "Gao's Crab Houston", "visits": 1, "coords": [-95.55311979193284, 29.70663696418756] }
 ]
+
 
